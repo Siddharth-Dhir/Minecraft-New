@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    font-family: 'Lora', serif;
+    background: linear-gradient(blue 0%, aqua 100%);
+}
+.menu{
+font-family: fantasy;
+z-index: 10;
+position: fixed;
+top: 0px;
+cursor: pointer;
+list-style: none;
+width: 100%;
+}
+a{
+    text-decoration: none;
+}
+.links:hover{
+    font-size: 25px;
+    text-decoration: underline;
+    color: gray;
+}
+.links{
+    float: left;
+    color: black;
+}
