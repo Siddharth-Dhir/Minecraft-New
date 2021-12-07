@@ -2,6 +2,7 @@ body{
     text-align: center;
     font-family: 'Lora', serif;
     background: linear-gradient(blue 0%, aqua 100%);
+    color: black;
 }
 .menu{
 font-family: fantasy;
