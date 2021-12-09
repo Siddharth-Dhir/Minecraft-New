@@ -1,7 +1,7 @@
 body{
     text-align: center;
     font-family: 'Lora', serif;
-    background: linear-gradient(blue 0%, aqua 100%);
+    background: linear-gradient(lightgreen 0%, green 100%);
     color: black;
 }
 .menu{
@@ -25,4 +25,8 @@ a{
     float: left;
     color: black;
 }
-
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
